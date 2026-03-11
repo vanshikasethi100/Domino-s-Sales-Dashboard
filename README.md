@@ -1,4 +1,4 @@
-# Domino-s-Sales-Dashboard
+# Domino-s-Sales-and-Category-Dashboard
 Project Overview
 This project is an end-to-end Data Analytics solution built using Power BI. The goal was to transform raw sales data into actionable business intelligence to optimize operations, understand customer behavior, and improve revenue.
 Tech Stack- 
